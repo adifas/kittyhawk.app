@@ -1,4 +1,0 @@
-# Kitty Hawk Applications
-
-- TLDR
-  
